@@ -3,7 +3,7 @@
 # React/Sass/Redux Boilerplate
 
 Boilerplate and guide for a React/Sass/Redux build.
-[Link To The Course](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
+[Link To The Course on YouTube](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
 )
 
 ## Getting Started
